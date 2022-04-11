@@ -1,22 +1,33 @@
-# apple-shortcuts-genvägar
+# Apple shortcuts - genvägar
 
 Apple genvägar eller Apple shortcuts på engelska används för olika typer av automationer. Det kan vara automationer av ett smart hem eller vardags automationer i mobilen eller datorn. Man kan använda det för att med ett tryck köra flera sammanlänkade aktiviteter.
 
 ## Genvägar
 
-- Hämta adress
-- Dagens väderförhållande
-- Att göra idag
-- Dagens väder
-- Dagens pollenprognos
-- Dagens citat
-- Byt bakgrundsbild
-- Tågbiljett2SJAppen
-- SJBiljett2Kalender
-- Betygsätt dryck
-- Spara artikel till anteckningar
-- Navigera till ingressportal
-- Dela podcast
-- Beräkna ålder på kontakt
-- Vem ringde?
-- Url2QR
+### Produktivitet
+
+- [Att göra idag](shortcuts/todo-day.md)
+- [Spara artikel till anteckningar](shortcuts/save-article-to-note.md)
+- [Dela podcast](shortcuts/share-podcast.md)
+- [Url2QR](shortcuts/ulr-to-qr.md)
+
+### Dagbok
+
+- [Hämta adress](shortcuts/get-adress.md)
+- [Dagens väderförhållande](shortcuts/day-weather.md)
+- [Dagens väder](shortcuts/weather-forcast.md)
+- [Dagens pollenprognos](shortcuts/pollen.md)
+- [Dagens citat](shortcuts/quote-of-day.md)
+
+### Arbete
+
+- [Tågbiljett2SJAppen](shortcuts/train-sj.md)
+- [SJBiljett2Kalender](shortcuts/sj-to-cal.md)
+
+### Spel och övrigt
+
+- [Beräkna ålder på kontakt](shortcuts/calculate-age.md)
+- [Vem ringde?](shortcuts/who-called.md)
+- [Byt bakgrundsbild](shortcuts/change-bg-image.md)
+- [Betygsätt dryck](shortcuts/drink-score.md)
+- [Navigera till ingressportal](shortcuts/navigate-to-ingress-portal.md)
