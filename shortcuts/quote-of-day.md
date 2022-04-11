@@ -2,7 +2,7 @@
 
 ## Beskrivning
 
-Hämtar dagen citat från https://citat.info. Returnerar svaret till genvägen alternativt till urklippet. 
+Hämtar dagen citat från https://citat.info. Returnerar svaret till genvägen och till urklippet. 
 
 ## Användning
 
@@ -10,8 +10,8 @@ Kör genvägen och i klippbordet finns nu citatet eller kört det från en annan
 
 ## Skärmbilder
 
-![citat1](assets/images/day-quote-1.png)
-![citat2](assets/images/day-quote-2.png)
+![citat1](/assets/images/day-quote-1.png)
+![citat2](/assets/images/day-quote-2.png)
 
 ## Nerladdning
 
