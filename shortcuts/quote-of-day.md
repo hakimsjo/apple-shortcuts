@@ -2,7 +2,7 @@
 
 ## Beskrivning
 
-Hämtar dagen citat från https://citat.info. Returnerar svaret till genvägen och till urklippet. 
+Hämtar dagens citat från https://citat.info. Returnerar svaret till genvägen och till urklippet. 
 
 ## Användning
 
