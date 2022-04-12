@@ -10,6 +10,9 @@ Markera titeln på podcasten, dela till denna genvägen så skapas en ny länk s
 
 ## Skärmbilder
 
+![podcast](../assets/images/podcast-1.png)
+![podcast](../assets/images/podcast-2.png)
+
 ## Nerladdning
 
 - [Dela podcast](https://www.icloud.com/shortcuts/f51874092e024adb8872750f347fcb88)

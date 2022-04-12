@@ -10,6 +10,10 @@ Gå in i kontaktboken och välj en person. Skrolla ner och välj dela kontakt. V
 
 ## Skärmbilder
 
+![age](../assets/images/calc-age-1.png)
+![age](../assets/images/calc-age-2.png)
+![age](../assets/images/calc-age-3.png)
+
 ## Nerladdning
 
 - [Beräkna ålder](https://www.icloud.com/shortcuts/d350c61a4e6543869e70071f58ef9057)
