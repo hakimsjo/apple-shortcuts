@@ -1,4 +1,4 @@
-# Apple shortcuts - genvägar
+# :iphone: Apple shortcuts - genvägar
 
 Apple genvägar eller Apple shortcuts på engelska används för olika typer av automationer. Det kan vara automationer av ett smart hem eller vardags automationer i mobilen eller datorn. Man kan använda det för att med ett tryck köra flera sammanlänkade aktiviteter.
 
@@ -29,3 +29,5 @@ Apple genvägar eller Apple shortcuts på engelska används för olika typer av 
 - [Byt bakgrundsbild](shortcuts/change-bg-image.md)
 - [Betygsätt dryck](shortcuts/drink-score.md)
 - [Navigera till ingressportal](shortcuts/navigate-to-ingress-portal.md)
+
+> :bulb: Länk till denna sida som en htmlsida som kan bokmärkas: https://hakimsjo.github.io/apple-shortcuts/
