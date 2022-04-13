@@ -30,4 +30,4 @@ Apple genvägar eller Apple shortcuts på engelska används för olika typer av 
 - [Betygsätt dryck](shortcuts/drink-score.md)
 - [Navigera till ingressportal](shortcuts/navigate-to-ingress-portal.md)
 
-> :bulb: Visa hemsida som kan bokmärkas: https://hakimsjo.github.io/apple-shortcuts/
+> :bulb: Visa som en fristående hemsida som kan bokmärkas: https://hakimsjo.github.io/apple-shortcuts/
