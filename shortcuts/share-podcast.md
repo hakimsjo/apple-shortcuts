@@ -6,7 +6,7 @@ Tar emot en text på podnamn från valfritt program och skapar en länk som kan 
 
 ## Användning
 
-Markera titeln på podcasten, dela till denna genvägen så skapas en ny länk som kan delas.
+Markera titeln på podcasten, dela till denna genvägen så skapas en ny länk som kan delas så mottagaren kan själv välja podcastspelare.
 
 ## Skärmbilder
 

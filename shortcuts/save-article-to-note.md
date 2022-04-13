@@ -2,7 +2,7 @@
 
 ## Beskrivning
 
-Tar en url, artikel eller text och skapar en anteckning.
+Tar en url, artikel eller text och skapar en snygg anteckning.
 
 ## Användning
 

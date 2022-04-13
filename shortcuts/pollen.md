@@ -2,11 +2,11 @@
 
 ## Beskrivning
 
-Hämtar pollenprognosen för Eskilstuna via RSS. Returnerar svaret till genvägen alternativt till urklippet. Byt ut orten genom att byta url:en genom att gå till pollenrapporten.se, välja ort och sedan rss.
+Hämtar pollenprognosen för Eskilstuna via RSS. Returnerar svaret till genvägen alternativt till urklippet. 
 
 ## Användning
 
-Kör genvägen och i klippbordet finns nu prognosen eller kört det från en annan genväg och använd resultatet.
+Byt ut orten genom att byta url:en genom att gå till pollenrapporten.se, välja ort och sedan rss. Kör genvägen och i klippbordet finns nu prognosen eller kört det från en annan genväg och använd resultatet.
 
 ## Skärmbilder
 

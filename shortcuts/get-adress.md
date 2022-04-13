@@ -2,7 +2,7 @@
 
 ## Beskrivning
 
-Hämtar aktuell adress och returnerar det.
+Hämtar aktuell adress och returnerar det till genvägen och klippbordet.
 
 ## Användning
 
@@ -10,7 +10,7 @@ Kör genvägen och i klippbordet finns nu adressen eller kört det från en anna
 
 ## Skärmbilder
 
-![adress](assets/images/get-adress1.png)
+![adress](../assets/images/get-adress1.png)
 
 ## Nerladdning
 

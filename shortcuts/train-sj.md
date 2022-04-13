@@ -2,11 +2,11 @@
 
 ## Beskrivning
 
-Hämtar bokningsnummret ur SJs SMS så man kan lägga in biljetten i SJ appen och få ut den i Apple wallet.
+Hämtar bokningsnummret ur SJ:s SMS så man kan lägga in biljetten i SJ appen och få ut den i Apple wallet.
 
 ## Användning
 
-Öppna sms:et med SJ-biljetten och kopiera hela meddelandet. Kör sedan denna genväg. Sj appen öppnas. Välj lägg till biljett och klistra in biljett numret i SJ appen och ange ditt mobilnummer. Nu kommer biljetten upp i appen och du kan även lägga in den i wallet.
+Öppna sms:et med SJ-biljetten och kopiera hela meddelandet. Kör sedan denna genväg. Sj appen öppnas. Välj lägg till biljett och klistra in biljett numret i SJ appen och ange ditt mobilnummer. Nu kommer biljetten upp i appen och kan även läggas in i wallet.
 
 ## Skärmbilder
 

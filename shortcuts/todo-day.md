@@ -2,11 +2,11 @@
 
 ## Beskrivning
 
-Returnerar aktuella påminnelser för dagen. Returnerar svaret till genvägen alternativt till urklippet. 
+Returnerar aktuella påminnelser för dagen. Returnerar svaret till genvägen alternativt till urklippet.
 
 ## Användning
 
-Kör genvägen och i klippbordet finns nu aktivitetslistan eller kört det från en annan genväg och använd resultatet.
+Kör genvägen och aktivitetslistan sparas i klippbordet och retuneras till genvägen så att en annan genväg kan använda resultatet.
 
 ## Skärmbilder
 

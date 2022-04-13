@@ -2,11 +2,11 @@
 
 ## Beskrivning
 
-Skapa en QR kod av en länk som du kan dela med dig till tex android användare.
+Skapa en QR kod av en länk som kan delas till tex android/iphone användare.
 
 ## Användning
 
-Klicka på delningsbladet och väldigt denna genvägen. En QR kod visas som din vän kan skanna med kamera appen som leder hem till den delade länken.
+Klicka på delningsbladet och välj denna genvägen. En QR kod visas som din vän kan skanna med kamera appen som leder hem till den delade länken.
 
 ## Skärmbilder
 

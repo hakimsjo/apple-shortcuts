@@ -2,7 +2,7 @@
 
 ## Beskrivning
 
-Hämtar upp ett telefonnummer från delningsbladet eller urklippet och söker på vald sökmotor.  Hitta, Eniro och Google.
+Hämtar upp ett telefonnummer från delningsbladet eller urklippet och söker på vald sökmotor. Hitta, Eniro och Google.
 
 ## Användning
 

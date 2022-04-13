@@ -11,8 +11,8 @@ Välj albumet som bakgrundsbilderna finns i skripet nedan. Kör genvägen.
 ## Skärmbilder
 
 ![bg](../assets/images/bg-image-1.png)
-![bg](../assets/images/bg-image-1.png)
-![bg](../assets/images/bg-image-1.png)
+![bg](../assets/images/bg-image-2.png)
+![bg](../assets/images/bg-image-3.png)
 
 ## Nerladdning
 

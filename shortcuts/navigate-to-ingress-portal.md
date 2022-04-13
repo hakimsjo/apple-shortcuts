@@ -6,7 +6,7 @@ Navigerar till en portal från IITC appen. Man kan använda Google Maps eller Ap
 
 ## Användning
 
-Från IITC appen väl dela portal till denna genvägen. 
+Från IITC appen välj dela portal till denna genvägen.
 
 ## Skärmbilder
 

@@ -6,7 +6,7 @@ Skapar en anteckning med vald mall i vald mapp. Genvägen frågar efter namnet p
 
 ## Användning
 
-Första gången så ändra nedan hur du vill att mallen ska vara och ange vart du vill att anteckningarna ska hamna. Starta sedan genvägen, ta en bild och age titel. Klistra in bilden när anteckningen är klar.
+Första gången så ändra i skriptet hur du vill att mallen ska vara och ändra sökvägen till anteckningarna. Starta sedan genvägen, ta en bild och age titel. Klistra in bilden som kopierats till klippbordet när anteckningen är klar.
 
 ## Skärmbilder
 

@@ -2,11 +2,11 @@
 
 ## Beskrivning
 
-Returnerar högsta och lägsta prognos för dagen i vald ort. Returnerar svaret till genvägen alternativt till urklippet.
+Returnerar högsta och lägsta temperaturen för dagen i vald ort. Returnerar svaret till genvägen och till urklippet.
 
 ## Användning
 
-Kör genvägen och i klippbordet finns nu vädret eller kört det från en annan genväg och använd resultatet.
+Kör genvägen direkt så kommer temperaturen att sparas i klippbordet  eller kör det från en annan genväg och resultatet retuneras till genvägen.
 
 ## Skärmbilder
 
